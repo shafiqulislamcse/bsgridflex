@@ -1,0 +1,13 @@
+section{
+	margin-bottom: 10px;
+}
+.box{
+	background-color: aqua;
+	min-height: 50px;
+	margin-bottom: 5px;
+}
+.m-h{
+	min-height: 150px;
+	background-color: #ddd;
+	margin-bottom: 10px;
+}
